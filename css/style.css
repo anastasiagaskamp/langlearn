@@ -1,0 +1,24 @@
+body {
+	margin: 2%;
+}
+
+.headstuff {
+	height: 95vh;
+	letter-spacing: .2rem;
+}
+
+h1 {letter-spacing: .5rem;}
+h2 {letter-spacing: .3rem;}
+h3 {letter-spacing: .4rem;}
+
+img {
+	width: 100%;
+}
+
+article {
+	margin: 2%;
+}
+
+article.lang-article {
+	max-width: 56.25%;
+}
